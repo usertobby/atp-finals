@@ -1,6 +1,6 @@
 # Expense Tracker Anak Kos
 
-Repository untuk aplikasi sederhana berbasis console pencatat pengeluaran Mahasiswa ITS. Dibuat sebagai bagian dari Final Project Mata Kuliah " Algoritma dan Teknik Pemrograman (A) ".
+Repository untuk source code aplikasi sederhana berbasis console pencatat pengeluaran Mahasiswa ITS. Dibuat sebagai bagian dari Final Project Mata Kuliah "Algoritma dan Teknik Pemrograman (A)".
 
 ### Anggota Kelompok
 |        Nama                   |     NRP    |
@@ -23,7 +23,8 @@ Repository untuk aplikasi sederhana berbasis console pencatat pengeluaran Mahasi
 - Registrasi/Login Akun
 - Auto Kapitalisasi String
 
-### Run
+---
+### How to Operate:
 Untuk menjalankan program ini, Anda harus clone repository GitHub ini ke komputer local Anda.
 ```
 https://www.jcchouinard.com/git-clone-github-repository-vscode/
