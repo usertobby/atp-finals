@@ -1,5 +1,0 @@
-15 20 2020 makan primer 100000
-14 12 1998 makan_bakso sekunder 20000
-21 8 2009 beli_baju sekunder 120000
-23 2 2001 beli_rumah tersier 20000
-29 7 2003 beli_mobil tersier 129000
