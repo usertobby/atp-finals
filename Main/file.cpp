@@ -276,6 +276,9 @@ void searchCategory(expense* head) {
 // Menghitung total pengeluaran
 long totalExpense(expense* head) {
     long total = 0;
+    if (head == nullptr) {
+        return total;
+    }
     expense* temp = head;
 
     while (temp != nullptr) {
