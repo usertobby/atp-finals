@@ -6,7 +6,7 @@ Repository untuk source code aplikasi sederhana berbasis console pencatat pengel
 |        Nama                   |     NRP    |
 |-------------------------------|------------|
 |M. Rama Maulana Wafa           | 5027251019 |
-|Ashkabil Abror                 | 5027251049 |
+|Ashkhabil Abror B.             | 5027251049 |
 |I Made Tobby Anantha Adiwijaya | 5027251064 |
 |Wahyu Yoga Wicaksono           | 5027251103 |
 
